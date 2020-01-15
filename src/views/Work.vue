@@ -65,7 +65,7 @@ export default {
             bg: "background: white",
             text: "color: black",
             summary: " This project is nothing but a climax of amazing computer-generated images using Raytracing",
-            url: "https://github.com/abidaaa/RTv1_1337" 
+            url: "https://github.com/abidaaa/RT" 
           },
       ]
     }
