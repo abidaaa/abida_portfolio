@@ -6,7 +6,7 @@
     <div class="projects-wrapper">
       <div class="project" v-for="todo in todos" v-bind:key="todo.id" :style="todo.bg">
         <div class="wrappper">
-          <a class="url" target="blank" :href="todo.url">
+          <a class="url" target="_blank" :href="todo.url">
             <div class="wrap-info">
               <img class="image-project" :src="todo.image" :alt="todo.title">
               <h3 class="title-project" :style="todo.text">{{todo.title}}</h3>

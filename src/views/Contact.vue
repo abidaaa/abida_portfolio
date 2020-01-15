@@ -5,10 +5,10 @@
             <div class="line"></div>
             <h4><a class="email" href="mailto:aabouibr@student.1337.ma">abdesslame.abouibrahim@gmail.com</a></h4>
             <div class="social-media nav justify-content-center">
-                <li class="nav-item"><a href="https://www.facebook.com/Abdo.D.Abida" target="blank" class="nav-link link"><img src="./../../images/fb.jpg" alt="facebook"></a></li>   
-                <li class="nav-item"><a href="https://twitter.com/_Abidaa_" target="blank" class="nav-link link"><img src="./../../images/twitter.jpg" alt="twitter"></a></li>
-                <li class="nav-item"><a href="https://github.com/abidaaa" target="blank" class="nav-link link"><img src="./../../images/github.jpg" alt="github"></a></li>
-                <li class="nav-item"><a href="https://linkedin.com/in/abdesslame-abouibrahim-9882aa178" target="blank" class="nav-link link"><img src="./../../images/linkedin.jpg" alt="linkedin"></a></li>
+                <li class="nav-item"><a href="https://www.facebook.com/Abdo.D.Abida" target="_blank" class="nav-link link"><img src="./../../images/fb.jpg" alt="facebook"></a></li>   
+                <li class="nav-item"><a href="https://twitter.com/_Abidaa_" target="_blank" class="nav-link link"><img src="./../../images/twitter.jpg" alt="twitter"></a></li>
+                <li class="nav-item"><a href="https://github.com/abidaaa" target="_blank" class="nav-link link"><img src="./../../images/github.jpg" alt="github"></a></li>
+                <li class="nav-item"><a href="https://linkedin.com/in/abdesslame-abouibrahim-9882aa178" target="_blank" class="nav-link link"><img src="./../../images/linkedin.jpg" alt="linkedin"></a></li>
             </div>
         </div>
     </div>
