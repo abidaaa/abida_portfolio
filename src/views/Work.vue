@@ -47,7 +47,7 @@ export default {
             bg: "background: black",
             text: "color: white",
             summary: "This project is meant to create graphically beautiful fractals.",
-            url: "https://github.com/abidaaa/fdf" 
+            url: "https://github.com/abidaaa/fract-ol" 
           },
           {
             id : 2,
