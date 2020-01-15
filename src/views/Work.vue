@@ -56,7 +56,7 @@ export default {
             bg: "background: black",
             text: "color: white",
             summary: "This project is inspired by the world-famous eponymous 90’s game, which was the first FPS ever. It enabled me to explore Ray-casting. My goal was to make a dynamic view inside a maze, in which the player has to find his way.",
-            url: "https://github.com/abidaaa/fdf" 
+            url: "https://github.com/abidaaa/wolf3d" 
           },
           {
             id : 3,
