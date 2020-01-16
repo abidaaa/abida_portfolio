@@ -5,7 +5,6 @@ import Work from './views/Work'
 Vue.use(VueRouter);
 
 export default new VueRouter({
-    mode: 'history',
     routes: [
         {
             path: '/work',
